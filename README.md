@@ -1,6 +1,6 @@
 # AI/ML-Enabled Tennis Racket
 
-This project involves the development of a smart tennis racket that leverages advanced sensor technology and embedded machine learning to enhance player performance. The system is designed to capture and analyze real-time motion and impact data, providing valuable insights and feedback to help players improve their game.
+This project involves the development of trend in smart sensor enabled device, such as sports sensor for greater insight. In this case, we examine the use case of the smart tennis racket that leverages sensor technology and embedded machine learning to enhance player performance. The system is designed to capture and analyze real-time motion and impact data, providing valuable insights and feedback to help players improve their game.
 
 ## Features
 
