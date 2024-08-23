@@ -24,7 +24,7 @@ This project involves the development of a smart tennis racket that leverages ad
 
 ## Getting Started
 
-1. **Clone the repository**: `git clone https://github.com/yourusername/ai-ml-tennis-racket.git`
+1. **Clone the repository**: `git clone https://github.com/danny-cagney/tennis-racket-AI-ML.git`
 2. **Hardware Setup**: Instructions on integrating sensors and microcontrollers.
 3. **Software Setup**: Guidelines for setting up the development environment, including toolchains and dependencies.
 4. **Running the Project**: Steps to compile and flash the firmware, along with basic usage instructions.
