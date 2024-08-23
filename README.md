@@ -18,7 +18,7 @@ This project involves the development of a smart tennis racket that leverages ad
 
 ## Technologies Used
 
-- **Hardware**: Nordic nRF52840, Bosch BNO055, Tekscan FlexiForce A201
+- **Hardware**: Sparkfun nRF52840 Mini - Bluetooth Development Board, Nordic Thingy:53, Bosch BMI270, LSM6DSV16X - 6DoF IMU
 - **Software**: Zephyr RTOS, TensorFlow Lite Micro, Edge Impulse
 - **Communication**: Bluetooth Low Energy (BLE), ANT
 
