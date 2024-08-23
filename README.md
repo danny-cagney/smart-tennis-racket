@@ -18,7 +18,7 @@ This project involves the development of trend in smart sensor enabled device, s
 
 ## Technologies Used
 
-- **Hardware**: Sparkfun nRF52840 Mini - Bluetooth Development Board, Nordic Thingy:53, Bosch BMI270, LSM6DSV16X - 6DoF IMU
+- **Hardware**: Sparkfun nRF52840 Mini - Bluetooth Development Board, Nordic Thingy:53, Bosch BMI270, LSM6DSV16X - 6DoF IMU, Poly Lithium Ion Battery LiPo 3.7V 250mAh
 - **Software**: Zephyr RTOS, TensorFlow Lite Micro, Edge Impulse
 - **Communication**: Bluetooth Low Energy (BLE), ANT
 
