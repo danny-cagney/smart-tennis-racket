@@ -24,7 +24,7 @@ This project involves the development of trend in smart sensor enabled device, s
 
 ## Getting Started
 
-1. **Clone the repository**: `git clone https://github.com/danny-cagney/tennis-racket-AI-ML.git`
+1. **Clone the repository**: `git clone https://github.com/danny-cagney/smart-tennis-racket.git`
 2. **Hardware Setup**: Instructions on integrating sensors and microcontrollers.
 3. **Software Setup**: Guidelines for setting up the development environment, including toolchains and dependencies.
 4. **Running the Project**: Steps to compile and flash the firmware, along with basic usage instructions.
